@@ -1,0 +1,389 @@
+.main {
+    background-color: #dfe0b3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .main .div {
+    display: flex;
+    background-color: #dfe0b3;
+    overflow: hidden;
+    width: 1440px;
+    height: 4467px;
+    position: relative;
+  }
+  
+  .main .overlap {
+    position: absolute;
+    width: 1446px;
+    height: 3305px;
+    top: 740px;
+    left: 0;
+  }
+  
+  .main .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 2324px;
+    top: 0;
+    left: 0;
+    background-color: #f1f3d5;
+    border-top-width: 2px;
+    border-top-style: dashed;
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+    border-color: #345b02;
+  }
+  
+  .to__catalog
+  {
+    margin-top: 550px;
+      margin-left: 260px;
+      background-color: khaki;
+      text-align: center;
+      font-size: 34px;
+      padding-top: 9px;
+      padding-bottom: 9px;
+      padding-left: 60px;
+      padding-right: 60px;
+      border: 0;
+      border-radius: 80px;
+  }  
+
+  .main .view {
+    position: absolute;
+    width: 1442px;
+    height: 1009px;
+    top: 2296px;
+    left: 4px;
+  }
+  
+  .main .overlap-group {
+    position: relative;
+    width: 1440px;
+    height: 1009px;
+    background-color: #f1f3d5;
+  }
+  
+  .main .overlap-group-wrapper {
+    position: absolute;
+    width: 601px;
+    height: 155px;
+    top: 774px;
+    left: 452px;
+  }
+  
+  .main .div-wrapper {
+    position: relative;
+    width: 599px;
+    height: 155px;
+    background-color: #ffe88e;
+    border-radius: 80px;
+  }
+  
+  .main .text-wrapper {
+    width: auto;
+    top: 53px;
+    left: 100px;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 44px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    padding-top: 50px;
+    padding-left: 50px;
+  }
+  
+  .main .image {
+    position: absolute;
+    width: 1277px;
+    height: 764px;
+    top: 63px;
+    left: 85px;
+  }
+  
+  .main .text-wrapper-2 {
+    top: 141px;
+    left: 552px;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 44px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .main .view-2 {
+    position: absolute;
+    width: 1444px;
+    height: 1122px;
+    top: 106px;
+    left: 0;
+  }
+  
+  .main .overlap-2 {
+    position: absolute;
+    width: 533px;
+    height: 281px;
+    top: -2px;
+    left: 458px;
+  }
+  
+  .main .text-wrapper-3 {
+    top: 86px;
+    left: 53px;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 44px;
+    text-align: center;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .main .img {
+    position: absolute;
+    width: 533px;
+    height: 281px;
+    top: 0;
+    left: 0;
+  }
+  
+  .main .image-2 {
+    position: absolute;
+    width: 1440px;
+    height: 468px;
+    top: 654px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .main .p {
+    width: 1030px;
+    top: 311px;
+    left: 205px;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 44px;
+    text-align: center;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .main .view-3 {
+    position: absolute;
+    width: 1446px;
+    height: 970px;
+    top: 1269px;
+    left: 0;
+  }
+  
+  .main .overlap-3 {
+    position: absolute;
+    width: 481px;
+    height: 244px;
+    top: -2px;
+    left: 480px;
+  }
+  
+  .main .text-wrapper-4 {
+    top: 62px;
+    left: 100px;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 44px;
+    text-align: center;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .main .image-3 {
+    position: absolute;
+    width: 481px;
+    height: 244px;
+    top: 0;
+    left: 0;
+  }
+  
+  .main .element {
+    position: absolute;
+    width: 1440px;
+    height: 689px;
+    top: 281px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .main .bottom-part {
+    position: absolute;
+    width: 1440px;
+    height: 422px;
+    top: 4045px;
+    left: 4px;
+    background-color: #e0e1b4;
+    border-top-width: 2px;
+    border-top-style: dashed;
+    border-color: #345b02;
+  }
+  
+  .main .overlap-4 {
+    position: relative;
+    width: 1279px;
+    height: 453px;
+    top: -31px;
+    left: 157px;
+  }
+  
+  .main .grocery-store {
+    position: absolute;
+    width: 900px;
+    height: 453px;
+    top: 0;
+    left: 379px;
+  }
+  
+  .main .view-4 {
+    position: absolute;
+    width: 490px;
+    height: 195px;
+    top: 154px;
+    left: 0;
+  }
+  
+  .main .text-wrapper-5 {
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 34px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .main .element-2 {
+    top: 72px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 34px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .main .div-2 {
+    position: absolute;
+    width: 347px;
+    height: 160px;
+    top: 152px;
+    left: 761px;
+  }
+  
+  .main .view-5 {
+    position: absolute;
+    width: 245px;
+    height: 60px;
+    top: 100px;
+    left: 51px;
+  }
+  
+  .main .overlap-group-2 {
+    position: relative;
+    width: 243px;
+    height: 60px;
+    background-color: #ffe88e;
+    border-radius: 80px;
+    border: 2px solid;
+    border-color: #0e0e0e;
+  }
+  
+  .main .text-wrapper-6 {
+    top: 7px;
+    left: 40px;
+    font-family: "Inter-Regular", Helvetica;
+    color: #000000;
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    margin-top: 9px;
+  }
+  
+  .main .image-4 {
+    position: absolute;
+    width: 1440px;
+    height: 690px;
+    top: 50px;
+    left: 0;
+  }
+  
+  .main .header {
+    position: fixed;
+    width: 1442px;
+    height: 81px;
+    top: 0;
+    left: -2px;
+    background-color: transparent;
+    overflow-y: scroll;
+  }
+  
+  .main .overlap-5 {
+    position: relative;
+    width: 1440px;
+    height: 81px;
+    left: 2px;
+    background-color: #f1f3d5;
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+    border-color: #345b02;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .main .text-wrapper-7 {
+    top: 26px;
+    left: 324px;
+    font-family: "Rockwell Extra Bold-Regular", Helvetica;
+    color: #345b02b8;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 200px;
+    padding-top: 30px;
+  }
+  
+  .main .text-wrapper-8 {
+    top: 26px;
+    left: 633px;
+    font-family: "Rockwell Extra Bold-Regular", Helvetica;
+    color: #345b02b8;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 40px;
+    padding-top: 30px;
+  }
+  
+  .main .logo {
+    position: absolute;
+    width: 213px;
+    height: 81px;
+    top: -2px;
+    left: -2px;
+  }
+
